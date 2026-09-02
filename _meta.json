@@ -1,0 +1,16 @@
+{
+  "name": "laoke-translate-pro",
+  "displayName": "技术文档翻译精校",
+  "slug": "laoke-translate-pro",
+  "version": "1.0.0",
+  "category": "office-efficiency",
+  "license": "MIT",
+  "author": "laoke",
+  "description": "技术文档/专业资料翻译完整工作流：术语库、预处理、机翻提示词、后编辑、一致性检查。附纯标准库脚本。",
+  "tags": ["翻译", "本地化", "术语库", "后编辑", "去机翻腔", "办公效率"],
+  "minRuntime": "python3.8+",
+  "entry": "scripts/glossary_guard.py",
+  "safetyLevel": "local-only",
+  "networkRequired": false,
+  "dependencies": []
+}
